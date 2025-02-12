@@ -1,4 +1,4 @@
-all: iperfer.class
+all: Iperfer.class
 
 Iperfer.class: Iperfer.java
 	javac Iperfer.java
